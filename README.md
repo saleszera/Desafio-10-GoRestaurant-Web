@@ -119,7 +119,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ---
 ### 🎥️ Captura de tela
   <div align="center">
-	  <img src="https://media.giphy.com/media/PikM8n8YoUw8J7bcDm/giphy.gif" alt="aplicação"/>
+	  <img width="100%" height="50%" src="https://media.giphy.com/media/PikM8n8YoUw8J7bcDm/giphy.gif" alt="aplicação"/>
   </div>
 
 ---
